@@ -1,5 +1,6 @@
 {
     "variables": {
+        "code": "MAILCHIMP"
         "name": "Mailchimp"
     }
 }
