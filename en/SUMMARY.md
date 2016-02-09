@@ -5,4 +5,5 @@
 * [Subscribe](subscribe.md)
 * [Unsubscribe](unsubscribe.md)
 * [Resources](resources.md)
+* FAQs
 
