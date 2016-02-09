@@ -36,3 +36,8 @@ in **Sharp Scheduler and InfoBox**, the email must be determined by ways of inje
 The resulting Email token is then used in the Subscribe to Mailchimp Email field.
 
 It is worth noting that in InfoBox, the Subscribe to Mailchimp action is a button action.
+
+The API Key that needs to be provided in Subscribe to Mailchimp can be found in your Mailchimp account, under Account > Extra > API Keys. The List Name must be exactly as it appears in Mailchimp, as indicated by the help text.
+
+
+![](api  key.jpg)
