@@ -25,7 +25,7 @@ Whereas in Action Form, Action Grid, and DNN API Endpoint you can use either a t
 ![](expr.jpg)
 
 
-in **Sharp Scheduler and InfoBox**, the email must be determined by ways of inject data or SQL query, for example.
+in **Sharp Scheduler and InfoBox**, the email must be determined by ways of injecting data or SQL query, for example.
 
 
 ![](inject.jpg)
