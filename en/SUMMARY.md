@@ -4,5 +4,5 @@
 * [Installation](installation.md)
 * [Subscribe](subscribe.md)
 * [Unsubscribe](unsubscribe.md)
-* Resources
+* [Resources](resources.md)
 
