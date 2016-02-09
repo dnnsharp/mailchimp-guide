@@ -19,7 +19,7 @@ The Subscribe to Mailchimp action is basically the same in all the supported mod
 ![](subsc.jpg)
 
 
-Whereas in Action Form, Action Grid, and DNN API Endpoint you can use either a text box field token or expression to determine which email will be used to subscribe
+Whereas in Action Form, Action Grid, and DNN API Endpoint you can use either a text box field or expression to determine which email will be used to subscribe
 
 
 ![](expr.jpg)
