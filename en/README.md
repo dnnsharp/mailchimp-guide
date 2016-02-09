@@ -11,3 +11,5 @@ The minimum requirements for these modules to work together are as follows:
 * [DNN API Endpoint 01.02.02](http://www.dnnsharp.com/products/download?p=DNNAPIS&v=01.02.02)
 * [Sharp Scheduler 02.00.51](http://www.dnnsharp.com/products/download?p=SCHD&v=02.00.51)
 * [InfoBox 01.00.09](http://www.dnnsharp.com/products/download?p=INFOB&v=01.00.09)
+
+Other minimum requirements are .NET4 and DNN 6.
