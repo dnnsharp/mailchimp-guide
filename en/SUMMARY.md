@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
-* Subscribe
+* [Subscribe](subscribe.md)
 * Unsubscribe
 
