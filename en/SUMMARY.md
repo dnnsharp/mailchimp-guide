@@ -4,6 +4,6 @@
 * [Installation](installation.md)
 * [Subscribe](subscribe.md)
 * [Unsubscribe](unsubscribe.md)
-* [Resources](resources.md)
 * [FAQs](faqs.md)
+* [Resources](resources.md)
 
