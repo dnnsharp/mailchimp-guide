@@ -2,7 +2,7 @@ Mailchimp Integration
 =======
 
 
-This extension provides the ability to subscribe to a **MailChimp** list. Typically, this is a **Subscribe to Newsletter** form (already provided as a template in Action Form). But you have the ability to use this integration as part of any form or module: you can use it with Action Form, Action Grid, DNN API Endpoint, Sharp Scheduler and InfoBox.
+This extension provides the ability to subscribe to a [MailChimp](mailchimp.com) list. Typically, this is a "Subscribe to Newsletter" form (already provided as a template in Action Form). But you have the ability to use this integration as part of any form or module: you can use it with Action Form, Action Grid, DNN API Endpoint, Sharp Scheduler and InfoBox.
 
 Integration requirements:
 
