@@ -2,9 +2,9 @@ Mailchimp Integration
 =======
 
 
-This extension provides the ability to subscribe to a MailChimp list. Typically, this is a **Subscribe to Newsletter** form (provided as a template in Action Form) but you have the ability to use this integration as part of any form - for example as part of registration. Additionally, you can also use it with Action Grid, DNN API Endpoint, Sharp Scheduler and InfoBox.
+This extension provides the ability to subscribe to a **MailChimp** list. Typically, this is a **Subscribe to Newsletter** form (already provided as a template in Action Form). But you have the ability to use this integration as part of any form or module: you can use it with Action Form, Action Grid, DNN API Endpoint, Sharp Scheduler and InfoBox.
 
-The minimum requirements for these modules to work together are as follows:
+Integration requirements:
 
 * [Action Form 03.08.16](http://www.dnnsharp.com/products/download?p=AFORM&v=03.08.16)
 * [Action Grid 03.00.05](http://www.dnnsharp.com/products/download?p=AGRID&v=03.00.05)
@@ -12,4 +12,4 @@ The minimum requirements for these modules to work together are as follows:
 * [Sharp Scheduler 02.00.51](http://www.dnnsharp.com/products/download?p=SCHD&v=02.00.51)
 * [InfoBox 01.00.09](http://www.dnnsharp.com/products/download?p=INFOB&v=01.00.09)
 
-Other minimum requirements are .NET4 and DNN 6.
+General requirements: .NET4 and DNN 6.
