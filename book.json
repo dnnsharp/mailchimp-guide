@@ -1,6 +1,7 @@
 {
     "variables": {
         "code": "MAILCHIMP",
-        "name": "Mailchimp"
+        "name": "Mailchimp",
+        "productPage": "http://www.dnnsharp.com/integrations/mailchimp"
     }
 }
