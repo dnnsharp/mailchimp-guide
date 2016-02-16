@@ -5,7 +5,7 @@ You can subscribe to Mailchimp using our add-on as follows:
 
 **Action Form**
 
-Action Form comes with a "Subscribe to Mailchimp" template which has a few predefined fields and actions: First Name, Last Name, Email, Subscribe to Mailchimp, and Display Message.
+Action Form comes with a *Subscribe to Mailchimp* template which has a few predefined fields and actions: First Name, Last Name, Email, Subscribe to Mailchimp, and Display Message.
 
 ![](Template af.jpg)
 
