@@ -12,4 +12,4 @@ Integration requirements:
 * [InfoBox 01.01.83](http://www.dnnsharp.com/products/download?p=INFOB&v=01.01.83)
 
 
-General requirements: .NET4 and DNN 6.
+General requirements: .NET4 and DNN 7.2.1.
